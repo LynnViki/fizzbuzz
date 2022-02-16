@@ -1,5 +1,5 @@
 require 'rspec'
-require 'fizzbuzz'
+require '../lib/fizzbuzz'
 
 describe Fizzbuzz do
   context 'normal number' do
